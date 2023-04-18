@@ -1,0 +1,267 @@
+@import url('https://fonts.cdnfonts.com/css/g-guarantee');
+@import url('https://fonts.cdnfonts.com/css/haverbrooke');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Sacramento&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+color: #40514E;
+margin: 0px;
+text-align: center;
+font-family:  verdana, sans-serif;
+}
+
+h1{
+
+margin:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.6rem;
+color: #66BFBF;
+
+                                                
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+
+h3{
+
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E ;
+
+}
+
+.paragraf{
+    font-size: 2.5rem;
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+    color:#66BFBF;
+                                            
+}
+
+
+a:hover h1 {
+    text-decoration: none;
+    color:  #11999E;
+    
+}
+
+.top-container{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 150px;
+}
+
+
+.middle-container{
+    margin: 100px 0;
+}
+
+
+.bottom-container{
+    background-color:#66BFBF;
+padding: 50px 0 20px;
+
+
+}
+
+a{
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover{
+color: #EAF6F6;
+
+
+}
+
+
+.copyright{
+color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;
+
+
+}
+
+
+
+
+
+
+
+
+
+.oblak1{
+position: absolute;
+right: 300px;
+top: 100px;
+width: 150px;
+height: 100px;
+
+}
+
+
+
+.oblak2{
+    position:absolute;
+    left: 300px;
+    bottom: 750px;
+    width: 150px;
+    height: 100px;
+    
+
+    }
+
+.mountain{
+width: 100%;
+border-bottom-left-radius:10px ;
+border-bottom-right-radius:10px ;
+}
+
+p{
+ line-height: 2;
+}
+
+
+hr{
+border-style: none;
+border-top-style:dotted ;
+border-color: gray;
+border-width: 5px;
+width: 4%;
+margin: 100px auto 100px auto;
+
+
+}
+
+
+.pro{
+
+text-decoration:underline;
+}
+
+
+.intro{
+    width: 30%;
+    margin: auto;
+
+}
+
+.contact-message{
+width: 40%;
+margin: 40px auto 60px;
+}
+
+
+
+
+
+
+
+.hello{
+font-size: 50px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pfp{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+.skill-row{
+width: 50%;
+margin: 100px auto;
+text-align: left;
+
+}
+
+
+.skillspic{
+    width: 25%;
+    float: left;
+margin-right: 40px;
+
+
+}
+
+
+.srow{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+}
+
+.skillsT{
+text-align: left;
+
+
+}
+
+.btn {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+	border-radius:8px;
+	border:1px solid #1f638d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family: 'Montserrat', sans-serif;
+	font-size:19px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:2px 3px 5px #000000;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #2bc4ad 5%, #30e3cb 100%);
+	background-color:#2bc4ad;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+
